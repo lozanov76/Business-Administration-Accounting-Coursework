@@ -11,6 +11,9 @@ In the following you will find my resume, as well as some of the essays I have d
 <img width="612" height="792" alt="Victormanuel Lozano Resume Business Computer Applications " src="https://github.com/user-attachments/assets/b2efc118-8ddd-4d59-a627-2d7360ed99b4" />
 
 ## Coursework
+[Assessment Feedback.pdf](https://github.com/user-attachments/files/35311526/Assessment.Feedback.pdf)
+
+[File Permission Assignment V2(1).pdf](https://github.com/user-attachments/files/35311525/File.Permission.Assignment.V2.1.pdf)
 
 [Opening the West - Transcontinnental Railroad .pdf](https://github.com/user-attachments/files/35308969/Opening.the.West.-.Transcontinnental.Railroad.pdf)
 
@@ -21,3 +24,4 @@ In the following you will find my resume, as well as some of the essays I have d
 [The Great Depression - Stock Market Crash 1929.pdf](https://github.com/user-attachments/files/35309005/The.Great.Depression.-.Stock.Market.Crash.1929.pdf)
 
 [THE WIND IN MY HAIR.pdf](https://github.com/user-attachments/files/35309046/THE.WIND.IN.MY.HAIR.pdf)
+

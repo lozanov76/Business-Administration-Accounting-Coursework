@@ -1,4 +1,12 @@
 # Business-Administration-Accounting-Coursework
-## Resume
+
+<h2  style="border:none;">
+Resume
+
+
+  
+</h2>
 
 ## Coursework
+
+
